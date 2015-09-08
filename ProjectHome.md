@@ -1,0 +1,1 @@
+Sometimes I need to use TFTP on my Ubuntu. Although there is already tftpd, it's not flexible. So this project is born.
